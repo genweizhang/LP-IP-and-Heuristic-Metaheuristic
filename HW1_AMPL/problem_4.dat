@@ -1,0 +1,16 @@
+#HW1 assignment, DSA5113, Dr. Charles Nicholson
+
+# data table of problem 4
+
+data;
+
+set I := 1 2 3 4;
+
+param: d :=
+  1 2800 
+  2 500
+  3 100
+  4 850;
+
+param c := 0.15;
+param lim :=1200;

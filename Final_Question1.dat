@@ -1,0 +1,17 @@
+#data file for Final_problem1
+#Charles Nicholson, ISE/DSA 5113
+
+set I := 1 2 3;
+
+param s:=
+	1 500
+	2 475
+	3 385;
+param v :=
+	1 2.83
+	2 2.96
+	3 3.04;
+param m :=
+ 	1 5000
+ 	2 7000
+ 	3 3000;  

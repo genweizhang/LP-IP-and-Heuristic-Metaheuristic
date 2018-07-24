@@ -1,0 +1,16 @@
+#data file for Exam1_problem2
+#Charles Nicholson, ISE/DSA 5113
+set I :=  	1 2 3 4 5 6 7 8 9 10; 
+param L :=
+		1  54 
+        2  68
+        3  73
+        4  45
+        5  29
+        6  56
+        7  35
+        8  37
+        9  55
+        10 71;
+param T := 523;
+        
